@@ -1,0 +1,2 @@
+# ia-pln-atendimento
+SISTEMA DE CLASSIFICAÇÃO DE ATENDIMENTO
